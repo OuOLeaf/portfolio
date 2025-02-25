@@ -1,3 +1,15 @@
+## **Projects**  
+### **Stockaroo : Stock Backtesting Interactive Website** | 
+![Interactive Dashboard GIF](Interactive_dashboard.gif)  
+Skills: GCP, Google Analytics, Streamlit  
+🔗 **Live Demo**: [Click Here](https://stockaroo-web.streamlit.app/)  
+📂 **Repository**: [GitHub Repo](https://github.com/OuOLeaf/just_finance)
+
+### **Consumer Behavior Analysis** | Python, Excel  
+- Analyzed 2M invoices using association analysis, identifying 70% of common daily purchase bundles.  
+- Visualized 10,000+ users' purchasing behaviors from grocery to convenience stores.  
+- Developed an automated web scraping and categorization system for labeling 2M invoice data.  
+
 ## Work Experience
 **Statistical Researcher @ Rice University School of Engineering and Computing (_Nov 2024 – Present_)**  
 - Enhanced battery energy storage efficiency using statistical approaches in MATLAB.  
@@ -33,17 +45,6 @@ Walking Motif Analysis on Telecommunication & Signal Data:
 **Database**: MySQL, MSSQL, PostgreSQL, SQLite, Firebase  
 **Tools**: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint)
 
-
-## **Projects**  
-### **Consumer Behavior Analysis** | Python, Excel  
-- Analyzed 2M invoices using association analysis, identifying 70% of common daily purchase bundles.  
-- Visualized 10,000+ users' purchasing behaviors from grocery to convenience stores.  
-- Developed an automated web scraping and categorization system for labeling 2M invoice data.  
-
-### **Interactive Dashboard Website** | GCP, Google Analytics, Streamlit  
-![Interactive Dashboard GIF](Interactive_dashboard.gif)  
-🔗 **Live Demo**: [Click Here](https://your-website-link.com)  
-📂 **Repository**: [GitHub Repo](https://github.com/your-username/your-repo)
 
 ## **Links**  
 📧 Email: yy152@rice.edu  
