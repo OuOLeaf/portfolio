@@ -1,28 +1,79 @@
 # **Data Scientist**
 
-## **Work Experience**  
-### **Statistical Researcher** | Rice University School of Engineering and Computing (_Nov 2024 – Present_)  
-- Enhanced battery energy storage efficiency using statistical approaches in MATLAB.  
-- Conducted sensitivity analysis to identify key patterns and optimize electrode design.  
+<style>
+  .experience-container {
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .timeline-dot {
+    position: absolute;
+    left: 0;
+    top: 8px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    z-index: 1;
+  }
+  
+  .timeline-line {
+    position: absolute;
+    left: 8px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: #ccc;
+  }
+  
+  h1 {
+    color: #43c6a5;
+    font-size: 48px;
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  
+  .company {
+    font-weight: normal;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    margin-top: 15px;
+  }
+</style>
 
-### **Data Scientist** | Taiwan Academy of Banking and Finance (_Jan 2023 – Jun 2023_)  
-- Automated an ETL pipeline, reducing certification evaluation costs by 30%.  
-- Developed a statistical IRT model to determine passing criteria for financial certifications.  
-- Led IT system redesign for exam data storage, reducing data error rates by 12%.  
+# <span style="color: #43c6a5;">Experience</span>
 
-### **Data Analyst** | National Taipei University (_Jun 2022 – Dec 2022_)  
-- Increased subsidy funding by 10% by analyzing the impact of education programs on low-income students.  
-- Established an OLAP relational database (MSSQL) integrated with R for regression and classification analysis.  
-- Built interactive Power BI dashboards to monitor $200,000 in fund distribution and performance tracking.  
+<div class="experience-container">
+  <div class="timeline-dot"></div>
+  <div class="timeline-line"></div>
+  
+  ## Statistical Researcher
+  <div class="company">Rice University School of Engineering and Computing (Nov 2024 – Present)</div>
+  
+  * Enhanced battery energy storage efficiency using statistical approaches in MATLAB.
+  * Conducted sensitivity analysis to identify key patterns and optimize electrode design.
+</div>
 
-### **Research Assistant** | Research Center on Big Data and Smart City (_Jul 2021 – Dec 2022_)  
-**Machine Learning Research on Parkinson’s Disease Detection:**  
-- Built ML models (Random Forest) on 5M time-series data, achieving 95% accuracy in symptom detection.  
-- Increased model performance by 5% using feature engineering (FFT and splines).  
+<div class="experience-container">
+  <div class="timeline-dot"></div>
+  <div class="timeline-line"></div>
+  
+  ## Data Scientist
+  <div class="company">Taiwan Academy of Banking and Finance (Jan 2023 – Jun 2023)</div>
+  
+  * Automated an ETL pipeline, reducing certification evaluation costs by 30%.
+  * Developed a statistical IRT model to determine passing criteria for financial certifications.
+  * Led IT system redesign for exam data storage, reducing data error rates by 12%.
+</div>
 
-**Walking Motif Analysis on Telecommunication & Signal Data:**  
-- Developed an algorithm to track user trip generation, uncovering 92% of movement patterns and identifying 4+ high-traffic zones.  
-- Integrated 1.1B cellular data points across 3 telecom providers, improving data retention by 88% after noise reduction.  
 
 ## **Education**  
 - M.S., Statistics	| Rice University (_December 2019_)	 			        		
