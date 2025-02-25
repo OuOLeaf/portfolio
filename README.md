@@ -1,5 +1,5 @@
 ## **Projects**  
-### **Stockaroo : Stock Backtesting Interactive Website** | 
+### **Stockaroo : Stock Backtesting Interactive Website** 
 ![Interactive Dashboard GIF](Interactive_dashboard.gif)  
 Skills: GCP, Google Analytics, Streamlit  
 🔗 **Live Demo**: [Click Here](https://stockaroo-web.streamlit.app/)  
