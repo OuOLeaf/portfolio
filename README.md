@@ -41,13 +41,7 @@ Walking Motif Analysis on Telecommunication & Signal Data:
 - Developed an automated web scraping and categorization system for labeling 2M invoice data.  
 
 ### **Interactive Dashboard Website** | GCP, Google Analytics, Streamlit  
-- Built a stock market backtesting dashboard analyzing 40+ investment strategies using historical data.  
-- Integrated 10 years of Taiwan stock market data via APIs to support real-time insights.  
-- Achieved peak usage of 1,000+ daily users by deploying and optimizing dashboards based on feedback.
-
-#### **Demo**  
-![Interactive Dashboard GIF](assets/dashboard-demo.gif)  
-
+![Interactive Dashboard GIF](Interactive_dashboard.gif)  
 🔗 **Live Demo**: [Click Here](https://your-website-link.com)  
 📂 **Repository**: [GitHub Repo](https://github.com/your-username/your-repo)
 
