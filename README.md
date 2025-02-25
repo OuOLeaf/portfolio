@@ -5,12 +5,12 @@
 - Enhanced battery energy storage efficiency using statistical approaches in MATLAB.  
 - Conducted sensitivity analysis to identify key patterns and optimize electrode design.  
 
-### **Data Scientist Intern** | Taiwan Academy of Banking and Finance (_Jan 2023 – Jun 2023_)  
+### **Data Scientist** | Taiwan Academy of Banking and Finance (_Jan 2023 – Jun 2023_)  
 - Automated an ETL pipeline, reducing certification evaluation costs by 30%.  
 - Developed a statistical IRT model to determine passing criteria for financial certifications.  
 - Led IT system redesign for exam data storage, reducing data error rates by 12%.  
 
-### **Data Analyst Intern** | National Taipei University (_Jun 2022 – Dec 2022_)  
+### **Data Analyst** | National Taipei University (_Jun 2022 – Dec 2022_)  
 - Increased subsidy funding by 10% by analyzing the impact of education programs on low-income students.  
 - Established an OLAP relational database (MSSQL) integrated with R for regression and classification analysis.  
 - Built interactive Power BI dashboards to monitor $200,000 in fund distribution and performance tracking.  
@@ -25,15 +25,14 @@
 - Integrated 1.1B cellular data points across 3 telecom providers, improving data retention by 88% after noise reduction.  
 
 ## **Education**  
-- **Master of Engineering in Statistics** | Rice University (_Aug 2024 – Dec 2025_) | GPA: 3.83/4.0  
-- **Bachelor of Business Administration in Statistics** | National Taipei University (_Sep 2019 – Jun 2023_) | GPA: 4.0/4.0 (Honor Graduate)  
-- **Relevant Coursework:** Algorithms, Data Structures, Machine Learning, Regression & Linear Models, Bayesian Statistics  
-
+- M.S., Statistics	| Rice University (_December 2019_)	 			        		
+- B.S., Statistics | National Taipei University  (_May 2017_)
+  
 ## **Technical Skills:**  
-Python, SQL, R, MATLAB, SAS, C++  
-Dashboards: Power BI, Tableau, Google Analytics, Excel VBA, RShiny, Streamlit, PyQt5  
-Database: MySQL, MSSQL, PostgreSQL, SQLite, Firebase  
-Tools: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint)
+**Programming Language**:Python, SQL, R, MATLAB, SAS, C++  
+**Dashboards**: Power BI, Tableau, Google Analytics, Excel VBA, RShiny, Streamlit, PyQt5  
+**Database**: MySQL, MSSQL, PostgreSQL, SQLite, Firebase  
+**Tools**: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint)
 
 ## **Projects**  
 ### **Consumer Behavior Analysis** | Python, Excel  
