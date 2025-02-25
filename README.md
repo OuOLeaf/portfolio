@@ -29,10 +29,42 @@
 - B.S., Statistics | National Taipei University  (_May 2017_)
   
 ## **Technical Skills:**  
-**Programming Language**:Python, SQL, R, MATLAB, SAS, C++  
-**Dashboards**: Power BI, Tableau, Google Analytics, Excel VBA, RShiny, Streamlit, PyQt5  
-**Database**: MySQL, MSSQL, PostgreSQL, SQLite, Firebase  
-**Tools**: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint)
+**Programming Languages**:
+
+- **Python**: <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50" height="50">
+- **SQL**: <img src="https://logodix.com/logo/2048/2048440.png" alt="SQL Logo" width="50" height="50">
+- **R**: <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" height="50">
+- **MATLAB**: <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Logo" width="50" height="50">
+- **SAS**: <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SAS_logo_horiz.svg" alt="SAS Logo" width="50" height="50">
+- **C++**: <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="50" height="50">
+
+**Dashboards**:
+
+- **Power BI**: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="50" height="50">
+- **Tableau**: <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau Logo" width="50" height="50">
+- **Google Analytics**: <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Analytics_Logo.svg" alt="Google Analytics Logo" width="50" height="50">
+- **Excel VBA**: <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" alt="Excel VBA Logo" width="50" height="50">
+- **RShiny**: <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="RShiny Logo" width="50" height="50">
+- **Streamlit**: <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit Logo" width="50" height="50">
+- **PyQt5**: <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/PyQt_logo.png" alt="PyQt5 Logo" width="50" height="50">
+
+**Databases**:
+
+- **MySQL**: <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50" height="50">
+- **MSSQL**: <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="MSSQL Logo" width="50" height="50">
+- **PostgreSQL**: <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="50" height="50">
+- **SQLite**: <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" width="50" height="50">
+- **Firebase**: <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Logo" width="50" height="50">
+
+**Tools**:
+
+- **AWS**: <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="50" height="50">
+- **Hadoop**: <img src="https://hadoop.apache.org/images/hadoop-logo.jpg" alt="Hadoop Logo" width="50" height="50">
+- **Airflow**: <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Airflow Logo" width="50" height="50">
+- **GCP**: <img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="GCP Logo" width="50" height="50">
+- **Git**: <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="50" height="50">
+- **Microsoft Office**: <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013_logo.svg" alt="Microsoft Office Logo" width="50" height="50">
+
 
 ## **Projects**  
 ### **Consumer Behavior Analysis** | Python, Excel  
