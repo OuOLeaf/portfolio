@@ -1,16 +1,5 @@
 # **Data Scientist**
 
-### **Technical Skills:**  
-Python, SQL, R, MATLAB, SAS, C++  
-Dashboards: Power BI, Tableau, Google Analytics, Excel VBA, RShiny, Streamlit, PyQt5  
-Database: MySQL, MSSQL, PostgreSQL, SQLite, Firebase  
-Tools: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint)
-
-## **Education**  
-- **Master of Engineering in Statistics** | Rice University (_Aug 2024 – Dec 2025_) | GPA: 3.83/4.0  
-- **Bachelor of Business Administration in Statistics** | National Taipei University (_Sep 2019 – Jun 2023_) | GPA: 4.0/4.0 (Honor Graduate)  
-- **Relevant Coursework:** Algorithms, Data Structures, Machine Learning, Regression & Linear Models, Bayesian Statistics  
-
 ## **Work Experience**  
 ### **Statistical Researcher** | Rice University School of Engineering and Computing (_Nov 2024 – Present_)  
 - Enhanced battery energy storage efficiency using statistical approaches in MATLAB.  
@@ -34,6 +23,17 @@ Tools: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint
 **Walking Motif Analysis on Telecommunication & Signal Data:**  
 - Developed an algorithm to track user trip generation, uncovering 92% of movement patterns and identifying 4+ high-traffic zones.  
 - Integrated 1.1B cellular data points across 3 telecom providers, improving data retention by 88% after noise reduction.  
+
+## **Education**  
+- **Master of Engineering in Statistics** | Rice University (_Aug 2024 – Dec 2025_) | GPA: 3.83/4.0  
+- **Bachelor of Business Administration in Statistics** | National Taipei University (_Sep 2019 – Jun 2023_) | GPA: 4.0/4.0 (Honor Graduate)  
+- **Relevant Coursework:** Algorithms, Data Structures, Machine Learning, Regression & Linear Models, Bayesian Statistics  
+
+## **Technical Skills:**  
+Python, SQL, R, MATLAB, SAS, C++  
+Dashboards: Power BI, Tableau, Google Analytics, Excel VBA, RShiny, Streamlit, PyQt5  
+Database: MySQL, MSSQL, PostgreSQL, SQLite, Firebase  
+Tools: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint)
 
 ## **Projects**  
 ### **Consumer Behavior Analysis** | Python, Excel  
