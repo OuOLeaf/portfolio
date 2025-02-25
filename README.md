@@ -1,5 +1,4 @@
 ## Work Experience
-## Work Experience
 **Statistical Researcher @ Rice University School of Engineering and Computing (_Nov 2024 – Present_)**  
 - Enhanced battery energy storage efficiency using statistical approaches in MATLAB.  
 - Conducted sensitivity analysis to identify key patterns and optimize electrode design.  
@@ -25,8 +24,8 @@ Walking Motif Analysis on Telecommunication & Signal Data:
 
 
 ## **Education**  
-- M.S., Statistics	| Rice University (_December 2019_)	 			        		
-- B.S., Statistics | National Taipei University  (_May 2017_)
+- M.S., Statistics	| Rice University (_December 2025_)	 			        		
+- B.S., Statistics | National Taipei University  (_June 2023_)
   
 ## **Technical Skills:**  
 **Programming Language**:Python, SQL, R, MATLAB, SAS, C++  
