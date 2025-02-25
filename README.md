@@ -43,7 +43,13 @@ Walking Motif Analysis on Telecommunication & Signal Data:
 ### **Interactive Dashboard Website** | GCP, Google Analytics, Streamlit  
 - Built a stock market backtesting dashboard analyzing 40+ investment strategies using historical data.  
 - Integrated 10 years of Taiwan stock market data via APIs to support real-time insights.  
-- Achieved peak usage of 1,000+ daily users by deploying and optimizing dashboards based on feedback.  
+- Achieved peak usage of 1,000+ daily users by deploying and optimizing dashboards based on feedback.
+
+#### **Demo**  
+![Interactive Dashboard GIF](assets/dashboard-demo.gif)  
+
+🔗 **Live Demo**: [Click Here](https://your-website-link.com)  
+📂 **Repository**: [GitHub Repo](https://github.com/your-username/your-repo)
 
 ## **Links**  
 📧 Email: yy152@rice.edu  
