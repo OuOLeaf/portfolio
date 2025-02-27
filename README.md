@@ -34,9 +34,11 @@ Tools: GCP, Google Analytics, Streamlit
 - Visualized 10,000+ users' purchasing behaviors from grocery to convenience stores.  
 - Developed an automated web scraping and categorization system for labeling 2M invoice data.  
 
-<hr>
+<br>
 
 # **Work Experience**  
+
+<hr>
 
 <div class="timeline">
     <!-- Statistical Researcher -->
