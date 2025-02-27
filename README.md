@@ -1,3 +1,67 @@
+<section id="experience">
+    <div class="timeline">
+        <!-- Experience 1 -->
+        <div class="timeline-item">
+            <div class="timeline-icon"></div>
+            <div class="timeline-content">
+                <h4>Statistical Researcher</h4>
+                <p><strong>Rice University School of Engineering and Computing</strong> (Nov 2024 – Present)</p>
+                <ul>
+                    <li>Enhanced battery energy storage efficiency using statistical approaches in MATLAB.</li>
+                    <li>Conducted sensitivity analysis to identify key patterns and optimize electrode design.</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Experience 2 -->
+        <div class="timeline-item">
+            <div class="timeline-icon"></div>
+            <div class="timeline-content">
+                <h4>Data Scientist</h4>
+                <p><strong>Taiwan Academy of Banking and Finance</strong> (Jan 2023 – Jun 2023)</p>
+                <ul>
+                    <li>Automated an ETL pipeline, reducing certification evaluation costs by 30%.</li>
+                    <li>Developed a statistical IRT model to determine passing criteria for financial certifications.</li>
+                    <li>Led IT system redesign for exam data storage, reducing data error rates by 12%.</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Experience 3 -->
+        <div class="timeline-item">
+            <div class="timeline-icon"></div>
+            <div class="timeline-content">
+                <h4>Data Analyst</h4>
+                <p><strong>National Taipei University</strong> (Jun 2022 – Dec 2022)</p>
+                <ul>
+                    <li>Increased subsidy funding by 10% by analyzing the impact of education programs on low-income students.</li>
+                    <li>Established an OLAP relational database (MSSQL) integrated with R for regression and classification analysis.</li>
+                    <li>Built interactive Power BI dashboards to monitor $200,000 in fund distribution and performance tracking.</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Experience 4 -->
+        <div class="timeline-item">
+            <div class="timeline-icon"></div>
+            <div class="timeline-content">
+                <h4>Research Assistant</h4>
+                <p><strong>Research Center on Big Data and Smart City</strong> (Jul 2021 – Dec 2022)</p>
+                <h5>Machine Learning Research on Parkinson's Disease Detection:</h5>
+                <ul>
+                    <li>Built ML models (Random Forest) on 5M time-series data, achieving 95% accuracy in symptom detection.</li>
+                    <li>Increased model performance by 5% using feature engineering (FFT and splines).</li>
+                </ul>
+                <h5>Walking Motif Analysis on Telecommunication & Signal Data:</h5>
+                <ul>
+                    <li>Developed an algorithm to track user trip generation, uncovering 92% of movement patterns and identifying 4+ high-traffic zones.</li>
+                    <li>Integrated 1.1B cellular data points across 3 telecom providers, improving data retention by 88% after noise reduction.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
 # **Projects**  
 
 <hr>
