@@ -17,12 +17,11 @@ Tools: Claude, SQLite
 ## **Stockaroo : Stock Backtesting Website** 
 Backtesting on stock market for future investment...
 <div align="center">
-  <a href="https://github.com/OuOLeaf/just_finance" target="_blank">
+  <a href="https://stockaroo-web.streamlit.app/" target="_blank">
     <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </div>
 Tools: GCP, Google Analytics, Streamlit  
-🔗 [Live Demo](https://stockaroo-web.streamlit.app/)  
 📂 [Repository](https://github.com/OuOLeaf/just_finance)
 
 ### **Consumer Behavior Analysis** | Python, Excel  
