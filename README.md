@@ -5,7 +5,7 @@
 ## **AI agent: Claude MCP applications**
 Build AI agent to demonstrate future of analysis and speed up workflow...
 <div align="center">
-  <img src="AI_agent.gif" alt="AI Agent" width="500">
+  <img src="AI_agent.gif" alt="AI Agent" width="500" style="border-radius: 20px;">
 </div>
 Tools: Claude, SQLite  
 📂 [Repository](https://github.com/OuOLeaf/claude-mcp-pipeline)
