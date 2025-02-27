@@ -29,10 +29,6 @@ Backtesting on stock market for future investment...
 Tools: GCP, Google Analytics, Streamlit  
 📂 [Repository](https://github.com/OuOLeaf/just_finance)
 
-### **Consumer Behavior Analysis** | Python, Excel  
-- Analyzed 2M invoices using association analysis, identifying 70% of common daily purchase bundles.  
-- Visualized 10,000+ users' purchasing behaviors from grocery to convenience stores.  
-- Developed an automated web scraping and categorization system for labeling 2M invoice data.  
 
 <br>
 
