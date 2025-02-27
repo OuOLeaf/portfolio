@@ -1,9 +1,13 @@
 ## **Projects**  
+
+### **AI agent: Claude MCP applications**
+Tools: Claude, SQLite  
+📂 [Repository](https://github.com/OuOLeaf/claude-mcp-pipeline)
 ### **Stockaroo : Stock Backtesting Interactive Website** 
 ![Interactive Dashboard GIF](Interactive_dashboard.gif)  
-Skills: GCP, Google Analytics, Streamlit  
-🔗 **Live Demo**: [Click Here](https://stockaroo-web.streamlit.app/)  
-📂 **Repository**: [GitHub Repo](https://github.com/OuOLeaf/just_finance)
+Tools: GCP, Google Analytics, Streamlit  
+🔗 [Live Demo](https://stockaroo-web.streamlit.app/)  
+📂 [Repository](https://github.com/OuOLeaf/just_finance)
 
 ### **Consumer Behavior Analysis** | Python, Excel  
 - Analyzed 2M invoices using association analysis, identifying 70% of common daily purchase bundles.  
