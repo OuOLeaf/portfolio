@@ -1,94 +1,73 @@
-/* Main container styles */
-#experience {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-}
-
-h2 {
-    color: #333;
-    margin-bottom: 20px;
-}
-
 /* Timeline container */
 .timeline {
-    border-left: 3px solid #2e8b57; /* Darker green left bar */
-    padding-left: 20px;
     position: relative;
-    margin-left: 10px;
+    padding-left: 60px; /* Space for the line and circles */
+}
+
+/* Vertical line */
+.timeline::before {
+    content: '';
+    position: absolute;
+    top: 10px; /* Start line at the center of the first circle */
+    bottom: 0;
+    left: 20px;
+    width: 3px; /* Thicker line */
+    background-color: #5f7d8c; /* Blue-gray color */
+    height: calc(100% - 10px); /* Don't exceed above the first circle */
 }
 
 /* Each timeline item */
 .timeline-item {
-    margin-bottom: 40px;
     position: relative;
+    margin-bottom: 50px;
 }
 
-/* Timeline circular icons */
-.timeline-icon {
-    background-color: white; /* Solid white background to block the line */
-    border: 3px solid #2e8b57; /* Matching darker green border */
-    border-radius: 50%;
-    height: 18px;
-    width: 18px;
+/* Timeline circles */
+.timeline-item::before {
+    content: '';
     position: absolute;
-    left: -32px; /* Position to overlap the line */
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    border: 3px solid #5f7d8c; /* Thicker circle border with blue-gray color */
+    left: -51px; /* Adjusted to account for thicker border */
     top: 5px;
-    z-index: 100; /* Ensures circles appear above the line */
-    box-shadow: 0 0 0 3px white; /* White halo to ensure line is blocked */
+    z-index: 2; /* Ensures circles appear over the line */
 }
 
-/* Timeline content */
-.timeline-content {
-    padding-left: 10px;
-}
-
-.timeline-content h3 {
-    margin-top: 0;
-    color: #333;
+/* Job title */
+.job-title {
     font-size: 18px;
     font-weight: bold;
+    margin: 0 0 5px 0;
+    color: #444;
 }
 
-.timeline-content h4 {
-    color: #555;
+/* Company and date */
+.company-date {
+    margin: 0 0 15px 0;
     font-size: 16px;
+    color: #666;
+}
+
+/* Date styling */
+.date {
+    font-style: italic;
+}
+
+/* Bullet points */
+ul {
+    margin: 0;
+    padding: 0 0 0 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Project heading */
+.project-heading {
+    font-weight: bold;
     margin-top: 15px;
     margin-bottom: 8px;
-}
-
-.timeline-content ul {
-    list-style-type: none;
-    padding-left: 0;
-    margin-top: 8px;
-}
-
-.timeline-content li {
-    position: relative;
-    padding-left: 5px;
-    margin-bottom: 8px;
-    color: #555;
-    line-height: 1.5;
-}
-
-.timeline-content li:before {
-    content: "•";
-    position: absolute;
-    left: 0;
-    color: #2e8b57;
-    font-weight: bold;
-}
-
-/* Styling for @ symbol and dates */
-.at {
-    color: #2e8b57;
-    font-weight: normal;
-}
-
-.date {
-    font-weight: normal;
-    font-style: italic;
-    color: #666;
-    font-size: 16px;
-}
