@@ -5,7 +5,7 @@
 ## **AI agent: Claude MCP applications**
 Build AI agent to demonstrate future of analysis and speed up workflow...
 <div align="center">
-  <img src="AI_agent.gif" alt="AI Agent" width="600" style="border-radius: 50%;">
+  <img src="AI_agent.gif" alt="AI Agent" width="600" style="border-radius: 20px;">
 </div>
 Tools: Claude, SQLite  
 📂 [Repository](https://github.com/OuOLeaf/claude-mcp-pipeline)
@@ -15,7 +15,12 @@ Tools: Claude, SQLite
 ## **Stockaroo : Stock Backtesting Website** 
 Backtesting on stock market for future investment...
 <div align="center">
-  <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="500">
+  <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="600" style="border-radius: 20px;">
+</div>
+<div align="center">
+  <a href="https://github.com/OuOLeaf/just_finance" target="_blank">
+    <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+  </a>
 </div>
 Tools: GCP, Google Analytics, Streamlit  
 🔗 [Live Demo](https://stockaroo-web.streamlit.app/)  
