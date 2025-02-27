@@ -3,7 +3,7 @@
 <hr>
 
 ## **AI agent: Claude MCP applications**
-Build an agent to demonstrate the future of analysis and speed up workflow...
+Build AI agent to demonstrate future of analysis and speed up workflow...
 <div align="center">
   <img src="AI_agent.gif" alt="AI Agent" width="500">
 </div>
