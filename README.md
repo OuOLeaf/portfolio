@@ -1,9 +1,11 @@
-## **Projects**  
+# **Projects**  
 
+<hr>
 
-### **AI agent: Claude MCP applications**
+## **AI agent: Claude MCP applications**
+Build an agent to demonstrate the future of analysis and speed up workflow...
 <div align="center">
-  <img src="AI_agent.gif" alt="AI Agent" width="600">
+  <img src="AI_agent.gif" alt="AI Agent" width="500">
 </div>
 Tools: Claude, SQLite  
 📂 [Repository](https://github.com/OuOLeaf/claude-mcp-pipeline)
@@ -11,8 +13,9 @@ Tools: Claude, SQLite
 <hr>
 
 ### **Stockaroo : Stock Backtesting Interactive Website** 
+Backtesting on stock market for future investment...
 <div align="center">
-  <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="600">
+  <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="500">
 </div>
 Tools: GCP, Google Analytics, Streamlit  
 🔗 [Live Demo](https://stockaroo-web.streamlit.app/)  
