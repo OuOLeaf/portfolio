@@ -2,14 +2,14 @@
 
 
 ### **AI agent: Claude MCP applications**
-![IaiAgent](AI_agent.gif)  
+<img src="AI_agent.gif" alt="AI Agent" width="600">
 Tools: Claude, SQLite  
 📂 [Repository](https://github.com/OuOLeaf/claude-mcp-pipeline)
 
 <hr>
 
 ### **Stockaroo : Stock Backtesting Interactive Website** 
-![Interactive Dashboard GIF](Interactive_dashboard.gif)  
+<img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="600">
 Tools: GCP, Google Analytics, Streamlit  
 🔗 [Live Demo](https://stockaroo-web.streamlit.app/)  
 📂 [Repository](https://github.com/OuOLeaf/just_finance)
