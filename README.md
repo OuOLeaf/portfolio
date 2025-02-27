@@ -12,7 +12,7 @@ Tools: Claude, SQLite
 
 <hr>
 
-### **Stockaroo : Stock Backtesting Interactive Website** 
+## **Stockaroo : Stock Backtesting Interactive Website** 
 Backtesting on stock market for future investment...
 <div align="center">
   <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="500">
