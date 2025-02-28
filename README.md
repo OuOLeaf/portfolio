@@ -3,8 +3,6 @@
 </head>
 
 
-# **Projects**  
-
 <hr>
 
 ## **AI agent: Claude MCP applications**
@@ -32,7 +30,7 @@ Tools: GCP, Google Analytics, Streamlit
 
 <br>
 
-# **Work Experience**  
+# **Experience**  
 
 <hr>
 
