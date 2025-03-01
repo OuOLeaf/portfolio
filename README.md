@@ -8,7 +8,7 @@
 ## **Amazon NLP Analysis: Like or Dislike This Product**
 Discover what readers truly love and hate about magazines based on Amazon reviews and rating. This reveals customer preferences through their Natural Process Techniques (NLP) between 2010-2018
 <div align="center">
-    <img src="amazon_reviews_NLP_analysis.jpg" alt="AI_agent" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="amazon_reviews_NLP_analysis.png" alt="Amazon_NLP" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </div>
 Keywords: PowerBI, NLP, Sentimental Analaysis, Consensus score
