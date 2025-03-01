@@ -5,6 +5,16 @@
 
 <hr>
 
+## **Amazon NLP Analysis: How customer react to product**
+Build AI agent to demonstrate future of analysis and speed up workflow...
+<div align="center">
+    <img src="amazon_reviews_NLP_analysis.png" alt="AI_agent" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+  </a>
+</div>
+Keywords: PowerBI, NLP, Sentimental Analaysis, Consensus score
+
+<hr>
+
 ## **AI agent: Claude MCP applications**
 Build AI agent to demonstrate future of analysis and speed up workflow...
 <div align="center">
