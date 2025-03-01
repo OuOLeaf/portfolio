@@ -5,8 +5,8 @@
 
 <hr>
 
-## **Amazon NLP Analysis: How customer react to product**
-Build AI agent to demonstrate future of analysis and speed up workflow...
+## **Amazon NLP Analysis: How Customers React to Products**
+Discover what readers truly love and hate about magazines based on thousands of Amazon reviews and rating. This reveals customer preferences through their Natural Process Techniques (NLP) between 2010-2018
 <div align="center">
     <img src="amazon_reviews_NLP_analysis.png" alt="AI_agent" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
@@ -22,7 +22,7 @@ Build AI agent to demonstrate future of analysis and speed up workflow...
     <img src="AI_agent.gif" alt="AI_agent" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </div>
-Tools: Claude, SQLite  
+Keywords: Claude, SQLite  
 📂 [Repository](https://github.com/OuOLeaf/claude-mcp-pipeline)
 
 <hr>
@@ -34,7 +34,7 @@ Backtesting on stock market for future investment...
     <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </div>
-Tools: GCP, Google Analytics, Streamlit  
+Keywords: GCP, Google Analytics, Streamlit  
 📂 [Repository](https://github.com/OuOLeaf/just_finance)
 
 
