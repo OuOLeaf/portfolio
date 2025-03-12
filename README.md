@@ -21,7 +21,7 @@ Build AI agent to demonstrate future of analysis and speed up workflow...
     <img src="AI_agent.gif" alt="AI_agent" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </div>
-Keywords: Claude, SQLite  
+Keywords: GenAI 
 📂 [Repository](https://github.com/OuOLeaf/claude-mcp-pipeline)
 
 <hr>
