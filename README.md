@@ -108,7 +108,86 @@ Keywords: GCP, Google Analytics, Streamlit
 **Tools**: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint)
 
 
-## **Links**  
-📧 Email: yy152@rice.edu  
-🔗 LinkedIn: [linkedin.com/in/yu-ting-yeh](https://www.linkedin.com/in/yu-ting-yeh/)  
-💻 GitHub: [github.com/OuOLeaf](https://github.com/OuOLeaf)  
+## **Beyond Me**
+I'm also a 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Column Cards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            gap: 15px;
+        }
+        
+        .card {
+            flex: 1;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        .card-image {
+            height: 200px;
+            overflow: hidden;
+        }
+        
+        .card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .card-title {
+            padding: 16px;
+            background-color: #4ecca3;
+            color: #333;
+            font-size: 16px;
+            font-weight: bold;
+            margin: 0;
+        }
+        
+        /* Make sure cards stack properly on mobile */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-image">
+                <img src="/api/placeholder/400/200" alt="DNA visualization">
+            </div>
+            <h3 class="card-title">DREAM-R: Genomic Analytics for AMD</h3>
+        </div>
+        
+        <div class="card">
+            <div class="card-image">
+                <img src="/api/placeholder/400/200" alt="Firewall visualization">
+            </div>
+            <h3 class="card-title">Classification of Internet Firewall Dataset</h3>
+        </div>
+        
+        <div class="card">
+            <div class="card-image">
+                <img src="/api/placeholder/400/200" alt="Third project visualization">
+            </div>
+            <h3 class="card-title">Machine Learning for Medical Imaging</h3>
+        </div>
+    </div>
+</body>
+
+Reach out to me! My Email: yy152@rice.edu  
