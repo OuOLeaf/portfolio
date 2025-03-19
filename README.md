@@ -171,7 +171,7 @@ I'm also a
             <div class="card-image">
                 <img src="cat.png" alt="Cat">
             </div>
-            <h3 class="card-title">Cats 🐱 Lover</h3>
+            <h3 class="card-title">Cat 🐱 <br>Lover</h3>
         </div>
         
         <div class="card">
