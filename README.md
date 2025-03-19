@@ -171,21 +171,21 @@ I'm also a
             <div class="card-image">
                 <img src="cat.png" alt="Cat">
             </div>
-            <h3 class="card-title">Cat Lover</h3>
+            <h3 class="card-title">Cat 🐱 Lover</h3>
         </div>
         
         <div class="card">
             <div class="card-image">
                 <img src="ramen.png" alt="Ramen">
             </div>
-            <h3 class="card-title">Ramen Hunter</h3>
+            <h3 class="card-title">Ramen 🍜 Hunter</h3>
         </div>
         
         <div class="card">
             <div class="card-image">
                 <img src="badminton.png" alt="Badminton">
             </div>
-            <h3 class="card-title">Badminton Player</h3>
+            <h3 class="card-title">Badminton 🏸 Player</h3>
         </div>
     </div>
 </body>
