@@ -138,7 +138,7 @@ I'm also a
         }
         
         .card-image {
-            height: 200px;
+            height: 100px;
             overflow: hidden;
         }
         
@@ -169,23 +169,23 @@ I'm also a
     <div class="container">
         <div class="card">
             <div class="card-image">
-                <img src="cat.jpg" alt="Cat">
+                <img src="cat.png" alt="Cat">
             </div>
-            <h3 class="card-title">Cat lover</h3>
+            <h3 class="card-title">Cat Lover</h3>
         </div>
         
         <div class="card">
             <div class="card-image">
-                <img src="/api/placeholder/400/200" alt="Firewall visualization">
+                <img src="ramen.png" alt="Ramen">
             </div>
-            <h3 class="card-title">Classification of Internet Firewall Dataset</h3>
+            <h3 class="card-title">Ramen Hunter</h3>
         </div>
         
         <div class="card">
             <div class="card-image">
-                <img src="/api/placeholder/400/200" alt="Third project visualization">
+                <img src="badminton.png" alt="Badminton">
             </div>
-            <h3 class="card-title">Machine Learning for Medical Imaging</h3>
+            <h3 class="card-title">Badminton Player</h3>
         </div>
     </div>
 </body>
