@@ -183,7 +183,7 @@ Keywords: GCP, Google Analytics, Streamlit
             <div class="card-image">
                 <img src="cat.png" alt="Cat">
             </div>
-            <h3 class="card-title">Cat & Kitty 🐱 Person</h3>
+            <h3 class="card-title">Cat & Kitty 🐱 Lover</h3>
         </div>
     </div>
 </body>
