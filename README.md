@@ -190,4 +190,4 @@ Keywords: GCP, Google Analytics, Streamlit
 
 <hr>
 
-## **Reach out to me! My Email: yy152@rice.edu**
+## Reach out to me! Email: [yy152@rice.edu](mailto:yy152@rice.edu)
