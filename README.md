@@ -108,8 +108,8 @@ Keywords: GCP, Google Analytics, Streamlit
 **Tools**: AWS, Hadoop, Airflow, GCP, Git, Microsoft Office (Excel, Word, PowerPoint)
 
 
-## **Beyond Me**
-I'm also a 
+## **I'm also a**
+ 
 
 <head>
     <meta charset="UTF-8">
@@ -183,9 +183,9 @@ I'm also a
             <div class="card-image">
                 <img src="cat.png" alt="Cat">
             </div>
-            <h3 class="card-title">Kitty 🐱 Lover</h3>
+            <h3 class="card-title">Cat 🐱 Person</h3>
         </div>
     </div>
 </body>
 
-Reach out to me! My Email: yy152@rice.edu  
+## **Reach out to me! My Email: yy152@rice.edu**
