@@ -116,9 +116,9 @@ I'm also a
     <div class="container">
         <div class="card">
             <div class="card-image">
-                <img src="/api/placeholder/400/200" alt="DNA visualization">
+                <img src="cat.jpg" alt="Cat">
             </div>
-            <h3 class="card-title">DREAM-R: Genomic Analytics for AMD</h3>
+            <h3 class="card-title">Cat lover</h3>
         </div>
         
         <div class="card">
