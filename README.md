@@ -12,8 +12,8 @@ Discover what buyers truly value using NLP techniques and data analysis.
         <img src="buy_now.gif" alt="Amazon_NLP" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
      </a>
 </div>
-<hr>
 **Keywords: PowerBI, NLP, Sentimental Analaysis, Consensus score**
+
 📂 [Repository](https://github.com/OuOLeaf/Amazon-NLP-Analysis)
 <hr>
 
