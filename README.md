@@ -5,8 +5,8 @@
 
 <hr>
 
-## **Amazon NLP Analysis: Reviews Tells Secrets**
-Discover what readers truly love based on Amazon reviews and rating.
+## **Amazon NLP Reviews Insights: Boost E-commerce Sales**
+Discover what buyers truly value using NLP and data analysis.
 <div align="center">
     <img src="amazon_reviews_NLP_analysis.png" alt="Amazon_NLP" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
 </div>
