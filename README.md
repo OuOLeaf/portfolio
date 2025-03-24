@@ -8,7 +8,7 @@
 ## **Amazon Reviews Insights: Boost Online Sales**
 Discover what buyers truly value using NLP techniques and data analysis.
 <div align="center">
-    <img src="amazon_reviews_NLP_analysis.png" alt="Amazon_NLP" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="buy_now.gif" alt="Amazon_NLP" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
 </div>
 Keywords: PowerBI, NLP, Sentimental Analaysis, Consensus score
 
