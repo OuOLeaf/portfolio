@@ -12,8 +12,9 @@ Discover what buyers truly value using NLP techniques and data analysis.
         <img src="buy_now.gif" alt="Amazon_NLP" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
      </a>
 </div>
-Keywords: PowerBI, NLP, Sentimental Analaysis, Consensus score
-
+<hr>
+**Keywords: PowerBI, NLP, Sentimental Analaysis, Consensus score**
+📂 [Repository](https://github.com/OuOLeaf/Amazon-NLP-Analysis)
 <hr>
 
 ## **AI agent: Claude MCP applications**
@@ -23,7 +24,7 @@ Build AI agent to demonstrate future of analysis and speed up workflow...
     <img src="AI_agent.gif" alt="AI_agent" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </div>
-Keywords: GenAI 
+**Keywords: GenAI**
 
 📂 [Repository](https://github.com/OuOLeaf/claude-mcp-pipeline)
 
@@ -36,7 +37,7 @@ Backtesting on stock market for future investment...
     <img src="Interactive_dashboard.gif" alt="Interactive Dashboard GIF" width="600" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </div>
-Keywords: GCP, Google Analytics, Streamlit  
+**Keywords: GCP, Google Analytics, Streamlit**  
 📂 [Repository](https://github.com/OuOLeaf/just_finance)
 
 
